@@ -2,7 +2,7 @@
 * @Author: Rosen
 * @Date:   2016-11-20 13:19:28
 * @Last Modified by:   cewei
-* @Last Modified time: 2018-05-06 01:43:23
+* @Last Modified time: 2018-05-06 13:54:22
 * 知识点：css单独打包、全局jquery引用、各种loader
 */
 
@@ -26,7 +26,7 @@ var config = {
     // path && publickPath
     output: {
         path        : __dirname + '/dist/',
-        publicPath  : '//s.dongcewei.com/XShop_admin_fe/dist/',
+        publicPath  : '//s.dongcewei.com/XShop-admin-fe/dist/',
         filename    : 'js/[name].js'
     },
     resolve: {
