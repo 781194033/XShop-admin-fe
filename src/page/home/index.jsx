@@ -25,7 +25,7 @@ const Home = React.createClass({
                 <PageTitle pageTitle="Home"/>
                 <div className="row">
                     <div className="col-lg-3 col-md-6">
-                        Welcome
+                        欢迎来到XShop后台管理系统，我们强烈建议您使用chrome浏览器，不同浏览器对该版本react的兼容不同
                     </div>
                 </div>
             </div>
